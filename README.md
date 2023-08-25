@@ -1,6 +1,6 @@
 # FoodiePal: Your Ultimate Food Ordering App
 
-Welcome to FoodiePal, your go-to food ordering app built with React, JSX, and CSS. With FoodiePal, you can explore a delectable menu, add your favorite items to the cart, and savor a hassle-free dining experience.
+Welcome to FoodiePal, your go-to food ordering app built with React, JavaScript, and CSS. With FoodiePal, you can explore a delectable menu, add your favorite items to the cart, and savor a hassle-free dining experience.
 
 <strong>Experience the application live <a href="https://food-ordering-app-8716ec2a470f.herokuapp.com/"><b>here</b></a>.</strong>
 
