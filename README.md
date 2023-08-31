@@ -21,4 +21,4 @@ Bon appétit! 🍔🍕🥗
 Hello, I'm Mauro Leos, a dedicated Software Engineer who's passionate about creating practical solutions. FoodiePal is a testament to my commitment to crafting user-friendly applications that make financial tracking a breeze.
 
 ## Get in Touch
-Connect with me on <a href="https://www.linkedin.com/in/mauro-leos-b4103a11b/">LinkedIn</a> or explore more about me on my <a href="https://www.mauroleos.com/">personal website</a>.
+Connect with me on <a href="https://www.linkedin.com/in/mauro-leos-b4103a11b/">LinkedIn</a>.
